@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 chaeyoon2626
+Copyright (c) 2026 [your name or GitHub username]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Note: this license covers the original content in this repository (README,
+SKILL.md, and the files under references/), which are summaries written by
+reading the official Mplus User's Guide. It does not cover Mplus itself or
+the official User's Guide, which remain the property of Muthén & Muthén.
